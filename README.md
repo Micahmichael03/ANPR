@@ -86,16 +86,6 @@ Original input video (`videos/tc.mp4`) is processed to detect license plates.
 ### Output Video
 Processed video (`videos/detected_video.mp4`) highlights license plates and overlays the detected text.
 
-### Test Images
-Results of detection on test images:
-- ![Test Image 1](images/test_image1.jpg)
-- ![Test Image 2](images/test_image2.jpg)
-
-### Output Video Snapshot
-Snapshots of processed video frames:
-- ![Frame 1](images/frame1.jpg)
-- ![Frame 2](images/frame2.jpg)
-
 ## Acknowledgments
 This project utilizes:
 - [OpenCV](https://opencv.org/)
