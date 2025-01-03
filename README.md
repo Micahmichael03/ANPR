@@ -21,8 +21,8 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/anpr-project.git
-   cd anpr-project
+   git clone https://github.com/Micahmichael03/ANPR.git
+   cd ANPR
    ```
 
 2. Install the required dependencies:
